@@ -30,13 +30,13 @@ I specialize in building measurable growth systems by combining strategy, data, 
 
 # Featured Case Studies
 
-| Project | Company | Focus Area | Status |
-|----------|----------|------------|--------|
-| Digital Sales Engine | iTecknologi Group | Paid Media, Lead Generation, CRO | ✅ |
-| Email Demand Generation | Assurety Consulting | Email Marketing, Automation | ✅ |
-| Website Transformation | iTecknologi Group | Website, SEO, Analytics | ✅ |
-| LinkedIn Organic Growth | Assurety Consulting | Content Strategy & Organic Growth | ✅ |
-| VLC Growth & Analytics System | Veritas Learning Circle | GA4, GTM, Meta Pixel, Funnels & Dashboards | Coming Soon |
+| Project | Company | Focus Area | Link |
+|----------|----------|------------|------|
+| Digital Sales Engine | iTecknologi Group | Paid Media, Lead Generation, CRO | `case-studies/01-digital-sales-engine` |
+| Email Demand Generation | Assurety Consulting | Email Marketing, Automation | `case-studies/02-email-demand-generation` |
+| Website Transformation | iTecknologi Group | Website, SEO, Analytics | `case-studies/03-website-transformation` |
+| LinkedIn Organic Growth | Assurety Consulting | Content Strategy & Organic Growth | `case-studies/04-linkedin-organic-growth` |
+| VLC Growth & Analytics System | Veritas Learning Circle | GA4, GTM, Meta Pixel, Funnels & Dashboards | `case-studies/05-vlc-growth-system` |
 
 ---
 
