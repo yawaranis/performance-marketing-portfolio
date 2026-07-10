@@ -1,45 +1,145 @@
 # Performance Marketing Portfolio
 
-I'm Yawar Anis, a performance marketing and demand generation professional based in Berlin. I build and optimize B2B growth systems across paid media, analytics, SEO, email marketing, marketing automation, and conversion funnels.
+Welcome! I'm **Yawar Anis**, a Performance Marketing and Demand Generation professional based in **Berlin, Germany**, with more than eight years of experience helping B2B companies generate qualified leads through paid media, analytics, SEO, marketing automation, and conversion optimization.
 
-## What this portfolio includes
+This repository documents real marketing projects, implementation processes, business outcomes, and lessons learned from campaigns I've planned, executed, and optimized.
 
-- Paid media campaigns
-- Analytics and tracking setups
-- Email demand generation
-- LinkedIn organic growth
-- Website transformation work
-- AI and automation experiments
+---
 
-## Featured case studies
+## About Me
 
-### 1. Digital Sales Engine
-Built a digital sales channel from zero to 200 units per month.  
-Focus: paid media, lead quality, A/B testing, and sales enablement.
+I specialize in building measurable growth systems by combining strategy, data, experimentation, and automation.
 
-### 2. Email Demand Generation
-Turned email into the highest-performing digital channel with 11,042 clicks and 7,177 high-intent actions.  
-Focus: segmentation, content architecture, and engagement tracking.
+### Core Expertise
 
-### 3. Website Revamp
-Led a full website transformation with stronger UX, faster load times, technical SEO improvements, and clearer conversion paths.
+- Performance Marketing
+- B2B Demand Generation
+- Google Ads
+- LinkedIn Ads
+- Meta Ads
+- Google Analytics 4 (GA4)
+- Google Tag Manager (GTM)
+- Technical SEO
+- Marketing Automation
+- Email Marketing
+- Conversion Rate Optimization (CRO)
+- Looker Studio
+- AI for Marketing
 
-### 4. LinkedIn Organic Growth
-Grew LinkedIn organically from zero budget to 521,126 impressions and 1,973 new followers.  
-Focus: content strategy, engagement, and thought leadership.
+---
 
-### 5. VLC Growth System
-Will document tracking, GA4, GTM, Meta Pixel, Search Console, funnels, and campaign optimization across the VLC ecosystem.
+# Featured Case Studies
 
-## What I care about
+| Project | Company | Focus Area | Status |
+|----------|----------|------------|--------|
+| Digital Sales Engine | iTecknologi Group | Paid Media, Lead Generation, CRO | ✅ |
+| Email Demand Generation | Assurety Consulting | Email Marketing, Automation | ✅ |
+| Website Transformation | iTecknologi Group | Website, SEO, Analytics | ✅ |
+| LinkedIn Organic Growth | Assurety Consulting | Content Strategy & Organic Growth | ✅ |
+| VLC Growth & Analytics System | Veritas Learning Circle | GA4, GTM, Meta Pixel, Funnels & Dashboards | Coming Soon |
 
-- Lead quality
-- Conversion
-- Measurement
-- Automation
-- Practical growth
+---
 
-## Connect
+# Marketing Technology Stack
+
+### Paid Media
+
+- Google Ads
+- LinkedIn Ads
+- Meta Ads
+
+### Analytics & Tracking
+
+- Google Analytics 4
+- Google Tag Manager
+- Google Search Console
+- Looker Studio
+
+### SEO
+
+- Technical SEO
+- On-page SEO
+- Keyword Research
+- Site Audits
+
+### Marketing Automation
+
+- Mailchimp
+- HubSpot
+- Lead Nurturing
+- CRM Workflows
+
+### AI
+
+- ChatGPT
+- Claude
+- AI-assisted Content Workflows
+- Prompt Engineering
+
+---
+
+# Repository Structure
+
+```
+performance-marketing-portfolio
+
+├── README.md
+
+├── case-studies
+│   ├── 01-digital-sales-engine
+│   ├── 02-email-demand-generation
+│   ├── 03-website-transformation
+│   ├── 04-linkedin-organic-growth
+│   └── 05-vlc-growth-system
+
+├── dashboards
+
+├── playbooks
+
+├── templates
+
+├── ai-projects
+
+└── assets
+```
+
+---
+
+# What You'll Find Here
+
+Each project includes:
+
+- Business Challenge
+- Objectives
+- Marketing Strategy
+- Tools Used
+- Campaign Architecture
+- Tracking Implementation
+- Optimization Process
+- Business Results
+- Lessons Learned
+
+My goal is to document not only the results, but also the thinking, experimentation, and implementation behind each project.
+
+---
+
+# Current Focus
+
+I'm currently exploring:
+
+- AI-powered marketing automation
+- Marketing Operations
+- Revenue Operations
+- AI Agents for Marketing
+- B2B Growth Marketing
+- GDPR & EU AI Act
+- Measurement and Attribution
+
+---
+
+# Connect
 
 - LinkedIn: https://linkedin.com/in/yawaranis
 - Medium: https://medium.com/@yawaranis
+
+---
